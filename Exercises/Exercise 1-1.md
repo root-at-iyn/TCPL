@@ -23,4 +23,4 @@ main ()
 When compiling this program,  the GCC complier will produce the following error:
 
 ![[hello_no_semicolcon_complie_error.png]]
-![Compilation Error](/Images/hello_no_semicolcon_complie_error.png)
+![Compilation Error](/Exercises/Images/hello_no_semicolcon_complie_error.png)
