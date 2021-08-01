@@ -32,6 +32,6 @@ When this program is compiled,  the compiler will warn that the escape sequence 
 
 Since the program only causes a warning and not an error, the program can still be run as shown below. This still has an undersired affect, as the `\` is removed but the `k` remains after the string `hello, world`.
 
-![](/Exercises/Images/invalid_escape_seq_compiles_and_runs)
+![](/Exercises/Images/invalid_escape_seq_compiles_and_runs.png)
 
 
